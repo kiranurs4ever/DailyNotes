@@ -1,0 +1,24 @@
+https://stackoverflow.com/questions/4181861/message-src-refspec-master-does-not-match-any-when-pushing-commits-in-git
+
+
+1. I am cloning the repo to my folder
+$git clone https://github.com/kiranurs4ever/DailyNotes.git
+
+2. Then a floder is loading in to the floder i created. 
+Then i am moving in to that folder with 
+$cd gitdownloadedFolder
+
+3. Then
+$git remote add origin /path/to/origin.git
+
+4.Then 
+$git add .
+
+5.Then 
+$git commit -m "initial commit"
+
+6.Then
+$git push origin master/main
+
+
+
