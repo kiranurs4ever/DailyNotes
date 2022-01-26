@@ -1,0 +1,7 @@
+1. Write Down Money Given to Aziz -- Done
+2. Amazon package track -- Done
+3. Swap two Numbers with out Temporary -- Done
+4. operators chapter read --
+5. conditional & loop chapter read --
+6. Acess modifiers chapter read --
+7. Sending Everything to GIT -- Done 
