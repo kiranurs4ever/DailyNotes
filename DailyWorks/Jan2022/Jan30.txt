@@ -1,0 +1,43 @@
+1. Work on Day4 Assignments 
+1) Largest of 2 numbers
+	-> using if.else
+	-> using ternary operator
+
+2) Smallest of 3 numbers using if.else.if along with logical operators.
+
+3) print week number based on name of the week.(switch case)
+
+4) print name of the month based on the month number.(switch case)
+
+2. Work on Day5 Assignments
+Assignments
+--------------------
+1)  Count Number of Digits in a Number
+
+Input : 423424
+output : 6
+
+Video Link: https://www.youtube.com/watch?v=CnFBzBMEdMg
+
+
+2) Count Number of Even and Odd digits in a Number
+Input: 23456
+Output : 3 even  2 odd
+
+Video Link: https://www.youtube.com/watch?v=Ns4LoG56SZ4
+
+3) Find Sum of Digits in a Number
+Input: 1234
+output: 10
+
+Video Link: https://www.youtube.com/watch?v=ZLaBlxnmrxc
+ 
+4) Reverse a number
+Input: 1234
+Output: 4321
+
+Video Link: https://youtu.be/m0lMpNIG6vU?list=PLUDwpEzHYYLtgkXK6YaZ4I2XcsjMqIaEa
+
+5) Check number is palidrome or not
+Number: 121
+Reverse number: 121
