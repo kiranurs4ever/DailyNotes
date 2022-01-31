@@ -1,0 +1,4 @@
+1. Configure git in the mac
+2. Change the way terminal looks in mac
+3. How to use laptop to monitor always lid closed 
+

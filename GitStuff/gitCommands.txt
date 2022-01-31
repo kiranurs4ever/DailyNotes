@@ -22,3 +22,10 @@ $git push origin master/main
 
 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
 
+How to check global configurations 
+$git config --list
+
+To Configure git 
+$git config --global user.name kiranurs4ever
+$git config --global user.email "kiranurs4ever@gmail.com"
+ 
