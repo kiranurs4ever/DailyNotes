@@ -1,4 +1,8 @@
-1. Configure git in the mac
+1. Configure git in the mac -- Done
 2. Change the way terminal looks in mac
-3. How to use laptop to monitor always lid closed 
+	- first change it from zsh to bash -- Done
+3. How to use laptop to monitor always lid closed -- Done
+
+4. Git java code syncup
+5. Geeks4Geeks problem 1
 
