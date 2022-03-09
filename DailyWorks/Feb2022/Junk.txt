@@ -1,0 +1,31 @@
+Description
+These are the issues observed in Zapps STG.
+1.Huddl.ai app crashing on clicking on ServiceNow or Jira in notes tab. 
+2. When we press ESC Huddl.ai app is crashing. in Both(Mac & Windows). 
+3. On crash chat and tasks content is disappearing they are not restored in both (Mac and Windows). 
+4. In the moment share copy button is not working it's not copying its just showing copied. (working in Windows) 
+5. Notes are not working in Mac. 
+6. Moments not playing in URL. 
+7. Captured Moments are not playing in Service now. 
+8. We got transcripts only for 1 meeting.Did not get transcripts from other meetings.  
+9. Integrations for tasks is not responding
+
+UI issues: 
+9. Time, play speed, and full-screen options on the player of the recording file are overlapping. 2. Same is happening for moments on the landing page. 
+10. In notes there is a blank space displayed at the top in post-meeting. 
+11. Incall, notes tab.. date and meeting time are overlapping. 
+12. Incall layout issues in tasks, agenda. 
+13. Tasks in motes are overflowing. 
+14. Allighnment issue for notes agendas and tasks in notes,   left border is not in sync.  
+15. UI issue in chat when lengthy word or any URL is shared.
+16. UI issue in task when adding due date.
+17. Edit Task alignment issue.
+18. Moments are loading forever in the meeting, not good to show loading symbol throughout the meeting.
+19. No more options for agendas while in meeting.
+20. In notes tab Hubspot and freshdesk in  integrations are not responding.
+21.Previously filled data is not cleared when creating Jira from transcripts.
+22.UI issue for Jira pop up ( select text from transcripts, then from options choose create jira…then on clicking on copy Jira pop up is shown on the player).PFA.
+23. Email summary from motes is clumsy, not able to send and not able to go back also, need to close huddl app and open again. This is happening when there is attachment in notes. PFA(attached screen recording). Happening in web client also in both stg and prod.
+24.Player is different for auto moments and captured moments in service now.PFA.
+25.Attachement in notes are shown as broken thumbnails with image link when created complete motes as story in service now. PFA.
+26.When created only notes as story from post meeting page, attachments are not shown.

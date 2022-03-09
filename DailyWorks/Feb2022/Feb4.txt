@@ -1,13 +1,21 @@
 
 Office:
-1. Work On that Ramesh Naik issue --
-2.
+1. Work On that Ramesh Naik issue -- Done 
+2. Now test Huddl.ai with removing user from admin-internal-stg.gohuddl.com
+	a. How the flow is working 
+	b. Talk to hari vikram and understand the things 
+	c. Write down the observations 
+
+https://admin-internal-stg.gohuddl.com/users
+
 
 Personal :
 1. Basheer Bagh House -- 
 	1. Taking all Photos
 	2. Checking all things
 	3. Collecting keys
+	4. Buy Bulbs how many rooms --
+
 
 
 Study :
