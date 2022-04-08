@@ -42,5 +42,11 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 Solution:
 	$git push -f origin main/master
 
-Whwn i pushed i got fatal error --> the in password palce i coppied the outh generated password ..It worked
+When i pushed i got fatal error --> the in password palce i coppied the outh generated password ..It worked
  
+ 
+all the code is at 
+/Users/apple/eclipse-workspace
+
+$git pull 
+is the simple command to get if any change is occured in git hub 
